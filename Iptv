@@ -1,0 +1,43 @@
+<? php
+
+/ * -------------------------------------------------- ----------------------------------------
+
+* Bản quyền (c) Tập đoàn Microsoft. Đã đăng ký bản quyền.
+
+* Được cấp phép theo Giấy phép MIT. See LICENSE in the root directory of project to know the information about license.
+
+ * ------------------------------------------------- -------------------------------------- * /
+
+function sayHello ($ name) {
+
+	echo "Xin chào $ name!";}
+
+?>
+
+<html>
+
+	<head>
+
+		<title> Visual Studio Code Remote :: PHP </title>
+
+	</head>
+
+	<body>
+
+		<? php
+
+		
+
+		sayHello ('thế giới từ xa');
+
+			
+
+		phpinfo (); 
+
+			
+
+		?>
+
+	</body>
+
+</html>
